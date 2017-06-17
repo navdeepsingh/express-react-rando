@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.15.3",
+    "password-generator": "^2.1.0"
+  },
+  "name": "express-react-rando",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/navdeepsingh/express-react-rando.git",
+  "author": "navdeepsingh <navdeep.er@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+  	"start": "node index.js"
+  }
+}
